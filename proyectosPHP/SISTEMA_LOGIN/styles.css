@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+table {
+    margin: 20px auto;
+    color: rgb(56, 0, 108);
+    border: 5px solid #ca1818;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.izq {
+    text-align: right;
+    padding-right: 10px;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="submit"] {
+    padding: 10px;
+    margin: 10px;
+}

@@ -1,0 +1,33 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  h1 {
+    font-size: 32px;
+    color: #333;
+  }
+  
+  table {
+    margin: 0 auto;
+    color: rgb(56, 0, 108);
+    background-color:blanchedalmond;
+    border: 5px solid #ca1818;
+    border-collapse: collapse;
+  }
+  
+  td {
+    padding: 10px;
+  }
+  
+  .izq {
+    text-align: right;
+  }
+  
+  .der {
+    text-align: left;
+  }
+  
+  form {
+    margin-bottom: 50px;
+  }
